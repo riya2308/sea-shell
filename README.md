@@ -35,5 +35,5 @@ Sea Shell currently does not have a GUI of its own. It runs as a sub-shell of yo
 
 If you have completed all the above steps successfully, then you should see a screen similar to the one below.
 
-Congratulations! You have successfully run the Sea Shell!
+Congratulations! You have successfully run the Sea Shell! :)
 
